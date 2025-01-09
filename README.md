@@ -9,7 +9,7 @@
 
 <p align="left">🎓 Bachelor of Software Engineering<br>🏫 Tunku Abdul Rahman University of Management and Technology (TAR UMT)</p>
 
-<h4 align="left">Connect with Me</h4>
+<h3 align="left">📫 Connect with Me</h3>
 <div align="left"> 
   <a href="mailto:kaijianntan03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />

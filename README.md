@@ -1,5 +1,6 @@
-<h2 align="left"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kai+Jiann+👨‍💻!;" />
+<h2 align="left"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&lines=Hi+There!+👋+I'm+Kai+Jiann+👨‍💻!;" />
 </h2>
+
 ###
 
 <h3 align="left">🫡 About Me</h3>

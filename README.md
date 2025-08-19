@@ -24,48 +24,48 @@
 
 <h3 align="left">🌟 Languages & Tools</h2>
 <div>
-    <img align="left" src="./assets/dog.gif" width="120" height="160" loop="infinite"/>
-    <img align="right" src="./assets/cat.gif" width="120" height="140" loop="infinite"/>
+    <img align="left" src="./assets/dog.gif" width="120" height="140" loop="infinite"/>
+    <img align="right" src="./assets/cat.gif" width="120" height="120" loop="infinite"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="32" alt="spring logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="32" alt="angularjs logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="32" alt="typescript logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="32" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="32" alt="html5 logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="32" alt="css logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="32" alt="javascript logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="32" alt="flutter logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="32" alt="dart logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="32" alt="csharp logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="32" alt="dot-net logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="32" alt="kotlin logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="32" alt="oracle logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="32" alt="mysql logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="32" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="32" alt="firebase logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="32" alt="git logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="32" alt="github logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="32" alt="intellij logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="32" alt="vscode logo"  />
 </div>
 

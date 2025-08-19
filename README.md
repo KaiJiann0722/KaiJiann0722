@@ -24,8 +24,8 @@
 
 <h3 align="left">🌟 Languages & Tools</h2>
 <div>
-    <img align="left" src="./assets/dog.gif" width="120" height="140" loop="infinite"/>
-    <img align="right" src="./assets/cat.gif" width="120" height="120" loop="infinite"/>
+    <img align="left" src="./assets/dog.gif" width="120" height="160" loop="infinite"/>
+    <img align="right" src="./assets/cat.gif" width="120" height="140" loop="infinite"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="32" alt="spring logo"  />
@@ -50,10 +50,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="32" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="32" alt="c logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="32" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="32" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="32" alt="python logo"  />
@@ -69,8 +65,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="32" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="32" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="32" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="32" alt="git logo"  />
   <img width="12" />

@@ -97,8 +97,8 @@
 ###
 
 <div align="center">
-    <img align="left" src="./assets/angel.png" width="75" height="150" />
-    <img align="right" src="./assets/angel-flipped.png" width="75" height="150" />
+    <img align="left" src="./assets/angel.png" width="150" height="150" />
+    <img align="right" src="./assets/angel-flipped.png" width="150" height="150" />
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KaiJiann0722&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats"  height="150"/>
 </div>
 

@@ -86,8 +86,8 @@
 ###
 
 <div align="center">
-<img align="left" src="./assets/angel.png" width="200" height="200" />
-    <img align="right" src="./assets/angel-flipped.png" width="200" height="200" />
+<img align="left" src="./assets/angel.png" width="120" height="200" />
+    <img align="right" src="./assets/angel-flipped.png" width="120" height="200" />
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=KaiJiann0722&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaiJiann0722&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>

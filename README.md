@@ -85,7 +85,7 @@
 
 ###
 
-<div align=center>
+<div align="center">
     <img align="left" src="./assets/dog.gif" width="100" height="140" loop="infinite"/>
     <img align="right" src="./assets/cat.gif" width="100" height="120" loop="infinite"/>
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=KaiJiann0722&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10" height="150" alt="stats graph"  />

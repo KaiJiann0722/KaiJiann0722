@@ -86,6 +86,8 @@
 ###
 
 <div align="center">
+<img align="left" src="./assets/angel.png" width="120" height="140" loop="infinite"/>
+    <img align="right" src="./assets/angel-flipped.png" width="120" height="120" loop="infinite"/>
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=KaiJiann0722&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaiJiann0722&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -95,7 +97,7 @@
 ###
 
 <div align="center">
-  <img align="left" src="./assets/dog.gif" width="120" height="140" loop="infinite"/>
+    <img align="left" src="./assets/dog.gif" width="120" height="140" loop="infinite"/>
     <img align="right" src="./assets/cat.gif" width="120" height="120" loop="infinite"/>
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KaiJiann0722&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats"  height="150"/>
 </div>
